@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+   
+    <title>PEOMA</title>
+</head>
+<body>
+    <h1>Salmorejo</h1>
+    <ul>
+        <li>1Kg de Tomates</li>
+        <li>200 grs. de Pan</li>
+        <li>100 grs. de Aceite de Oliva</li>
+        <li>1 diente de Ajo</li>
+        <li>10 grs. de Sal</li>
+    </ul>
+
+   
+    <ol>
+        <li>Limpiar y triturar los tomates</li>
+        <li>Colar para quitar la piel y las pepitas</li>
+        <li>Volver a triturar añadiendo
+            <ol type= "a">
+         <li>El pan</li>
+        <li>El Pimentón</li>
+        <li>Los Ajos</li>
+        <li>La Sal</li>
+            </ol>
+        </li>
+        <li>Decorar con Huevo duro picado y trocitos de jamón ibérico</li>
+    </ol>
+</body>
+</html>
